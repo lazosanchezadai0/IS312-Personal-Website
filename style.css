@@ -1,0 +1,28 @@
+body {
+    background-color: #f0f4f8;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    color: #333333;
+}
+
+header {
+    background-color: #d6e4f0;
+    padding: 20px;
+}
+
+main {
+    display: grid;
+    grid-template-columns: 2fr 2fr;
+    gap: 20px;
+    padding: 20px;
+}
+
+section {
+    background-color: #ffffff;
+    padding: 25px;
+}
+
+footer {
+    background-color: #d6e4f0;
+    padding: 15px;
+}
